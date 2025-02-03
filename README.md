@@ -33,6 +33,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
 |  |
 | ------- |
