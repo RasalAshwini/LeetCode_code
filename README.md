@@ -46,6 +46,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RasalAshwini/LeetCode_code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -138,4 +140,12 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
