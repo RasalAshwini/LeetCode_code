@@ -8,11 +8,13 @@
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
