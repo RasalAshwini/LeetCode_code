@@ -30,6 +30,7 @@
 | [0854-making-a-large-island](https://github.com/RasalAshwini/LeetCode_code/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/RasalAshwini/LeetCode_code/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RasalAshwini/LeetCode_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RasalAshwini/LeetCode_code/tree/master/0066-plus-one) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2448-count-number-of-bad-pairs) |
 ## Hash Table
 |  |
@@ -125,6 +127,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
@@ -157,6 +160,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -168,4 +172,8 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RasalAshwini/LeetCode_code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
