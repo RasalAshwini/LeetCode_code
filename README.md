@@ -6,6 +6,7 @@
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RasalAshwini/LeetCode_code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
@@ -67,6 +69,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -181,6 +184,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RasalAshwini/LeetCode_code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
