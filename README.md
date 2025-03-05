@@ -66,6 +66,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RasalAshwini/LeetCode_code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/RasalAshwini/LeetCode_code/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RasalAshwini/LeetCode_code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Hash Table
 |  |
