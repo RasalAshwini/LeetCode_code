@@ -39,6 +39,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/RasalAshwini/LeetCode_code/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/RasalAshwini/LeetCode_code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -259,5 +260,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/RasalAshwini/LeetCode_code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
