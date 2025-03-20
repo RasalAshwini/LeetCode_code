@@ -67,6 +67,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
@@ -118,6 +119,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RasalAshwini/LeetCode_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RasalAshwini/LeetCode_code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RasalAshwini/LeetCode_code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RasalAshwini/LeetCode_code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
