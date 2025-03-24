@@ -71,6 +71,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3430-count-days-without-meetings](https://github.com/RasalAshwini/LeetCode_code/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
 ## Math
@@ -216,6 +217,7 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3430-count-days-without-meetings](https://github.com/RasalAshwini/LeetCode_code/tree/master/3430-count-days-without-meetings) |
 ## Design
 |  |
 | ------- |
