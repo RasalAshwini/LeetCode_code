@@ -6,6 +6,7 @@
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1170-shortest-common-supersequence) |
@@ -30,6 +31,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2509-minimize-xor) |
@@ -91,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
@@ -272,6 +275,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RasalAshwini/LeetCode_code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
