@@ -35,6 +35,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2509-minimize-xor) |
+| [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RasalAshwini/LeetCode_code/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RasalAshwini/LeetCode_code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/RasalAshwini/LeetCode_code/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -167,6 +169,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -224,6 +227,7 @@
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/RasalAshwini/LeetCode_code/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RasalAshwini/LeetCode_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
