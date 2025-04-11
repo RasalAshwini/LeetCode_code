@@ -98,6 +98,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/RasalAshwini/LeetCode_code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RasalAshwini/LeetCode_code/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RasalAshwini/LeetCode_code/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Hash Table
@@ -315,4 +316,8 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/RasalAshwini/LeetCode_code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/RasalAshwini/LeetCode_code/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
