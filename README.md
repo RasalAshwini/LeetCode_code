@@ -18,6 +18,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RasalAshwini/LeetCode_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -98,6 +99,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/RasalAshwini/LeetCode_code/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RasalAshwini/LeetCode_code/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1170-shortest-common-supersequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RasalAshwini/LeetCode_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
 |  |
 | ------- |
