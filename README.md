@@ -61,6 +61,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RasalAshwini/LeetCode_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RasalAshwini/LeetCode_code/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -254,6 +255,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 ## Simulation
 |  |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RasalAshwini/LeetCode_code/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RasalAshwini/LeetCode_code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/RasalAshwini/LeetCode_code/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
@@ -334,4 +337,20 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2050-count-good-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
