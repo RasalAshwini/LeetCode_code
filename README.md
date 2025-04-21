@@ -61,6 +61,7 @@
 | [2145-grid-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RasalAshwini/LeetCode_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/RasalAshwini/LeetCode_code/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RasalAshwini/LeetCode_code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
@@ -211,6 +212,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/RasalAshwini/LeetCode_code/tree/master/2249-count-the-hidden-sequences) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
