@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RasalAshwini/LeetCode_code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RasalAshwini/LeetCode_code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -49,6 +50,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/0416-partition-equal-subset-sum) |
 | [0854-making-a-large-island](https://github.com/RasalAshwini/LeetCode_code/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RasalAshwini/LeetCode_code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RasalAshwini/LeetCode_code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
