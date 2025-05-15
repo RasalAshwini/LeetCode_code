@@ -20,6 +20,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RasalAshwini/LeetCode_code/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -43,6 +44,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RasalAshwini/LeetCode_code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Array
 |  |
@@ -96,6 +98,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RasalAshwini/LeetCode_code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -348,6 +351,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RasalAshwini/LeetCode_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3637-count-number-of-balanced-permutations) |
