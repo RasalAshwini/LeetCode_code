@@ -353,6 +353,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/RasalAshwini/LeetCode_code/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RasalAshwini/LeetCode_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
