@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RasalAshwini/LeetCode_code/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RasalAshwini/LeetCode_code/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/0407-trapping-rain-water-ii) |
@@ -146,6 +147,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
@@ -238,6 +240,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/RasalAshwini/LeetCode_code/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
