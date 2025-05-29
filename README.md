@@ -223,6 +223,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RasalAshwini/LeetCode_code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
 | ------- |
@@ -294,6 +295,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RasalAshwini/LeetCode_code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
