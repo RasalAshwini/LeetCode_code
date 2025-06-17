@@ -161,6 +161,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -465,6 +466,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
