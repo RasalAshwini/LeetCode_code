@@ -173,6 +173,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/RasalAshwini/LeetCode_code/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -235,6 +236,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -501,6 +504,7 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
