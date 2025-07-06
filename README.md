@@ -95,6 +95,7 @@
 | [1876-map-of-highest-peak](https://github.com/RasalAshwini/LeetCode_code/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RasalAshwini/LeetCode_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RasalAshwini/LeetCode_code/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/2145-grid-game) |
@@ -192,6 +193,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RasalAshwini/LeetCode_code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RasalAshwini/LeetCode_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
