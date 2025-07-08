@@ -94,6 +94,7 @@
 | [1656-count-good-triplets](https://github.com/RasalAshwini/LeetCode_code/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/RasalAshwini/LeetCode_code/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RasalAshwini/LeetCode_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -371,6 +372,7 @@
 | [0075-sort-colors](https://github.com/RasalAshwini/LeetCode_code/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RasalAshwini/LeetCode_code/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RasalAshwini/LeetCode_code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -441,6 +443,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RasalAshwini/LeetCode_code/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RasalAshwini/LeetCode_code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -485,6 +488,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RasalAshwini/LeetCode_code/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RasalAshwini/LeetCode_code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
