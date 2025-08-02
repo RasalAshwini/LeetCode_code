@@ -67,6 +67,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RasalAshwini/LeetCode_code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RasalAshwini/LeetCode_code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -143,6 +144,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/RasalAshwini/LeetCode_code/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RasalAshwini/LeetCode_code/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/RasalAshwini/LeetCode_code/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -231,6 +233,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/2479-meeting-rooms-iii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RasalAshwini/LeetCode_code/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -415,6 +418,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/RasalAshwini/LeetCode_code/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
