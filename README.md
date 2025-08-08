@@ -186,6 +186,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/RasalAshwini/LeetCode_code/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
+| [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/RasalAshwini/LeetCode_code/tree/master/1500-count-largest-group) |
@@ -486,6 +487,7 @@
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/RasalAshwini/LeetCode_code/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -624,4 +626,8 @@
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2079-delete-duplicate-folders-in-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
