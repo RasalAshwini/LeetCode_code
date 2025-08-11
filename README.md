@@ -139,6 +139,7 @@
 | [2479-meeting-rooms-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RasalAshwini/LeetCode_code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RasalAshwini/LeetCode_code/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RasalAshwini/LeetCode_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -278,6 +279,7 @@
 | [2478-longest-nice-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RasalAshwini/LeetCode_code/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RasalAshwini/LeetCode_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2792-neighboring-bitwise-xor) |
@@ -369,6 +371,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RasalAshwini/LeetCode_code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/RasalAshwini/LeetCode_code/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RasalAshwini/LeetCode_code/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3639-zero-array-transformation-i) |
