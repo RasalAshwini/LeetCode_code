@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RasalAshwini/LeetCode_code/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/RasalAshwini/LeetCode_code/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RasalAshwini/LeetCode_code/tree/master/0900-reordered-power-of-2) |
@@ -274,6 +275,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/RasalAshwini/LeetCode_code/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RasalAshwini/LeetCode_code/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -588,6 +590,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/RasalAshwini/LeetCode_code/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
