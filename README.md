@@ -57,6 +57,7 @@
 | [0135-candy](https://github.com/RasalAshwini/LeetCode_code/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RasalAshwini/LeetCode_code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/RasalAshwini/LeetCode_code/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RasalAshwini/LeetCode_code/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RasalAshwini/LeetCode_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RasalAshwini/LeetCode_code/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -192,6 +193,7 @@
 | [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RasalAshwini/LeetCode_code/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/RasalAshwini/LeetCode_code/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/RasalAshwini/LeetCode_code/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RasalAshwini/LeetCode_code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
