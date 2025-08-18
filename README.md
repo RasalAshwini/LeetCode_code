@@ -89,6 +89,7 @@
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/0416-partition-equal-subset-sum) |
+| [0679-24-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/0679-24-game) |
 | [0854-making-a-large-island](https://github.com/RasalAshwini/LeetCode_code/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -190,6 +191,7 @@
 | [0066-plus-one](https://github.com/RasalAshwini/LeetCode_code/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/RasalAshwini/LeetCode_code/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/RasalAshwini/LeetCode_code/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/RasalAshwini/LeetCode_code/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RasalAshwini/LeetCode_code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -473,6 +475,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RasalAshwini/LeetCode_code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
