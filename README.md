@@ -46,6 +46,7 @@
 ## Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RasalAshwini/LeetCode_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RasalAshwini/LeetCode_code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -108,6 +109,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RasalAshwini/LeetCode_code/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/RasalAshwini/LeetCode_code/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/RasalAshwini/LeetCode_code/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -360,6 +362,7 @@
 | [1396-count-servers-that-communicate](https://github.com/RasalAshwini/LeetCode_code/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/RasalAshwini/LeetCode_code/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RasalAshwini/LeetCode_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -512,6 +515,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RasalAshwini/LeetCode_code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -652,4 +656,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/RasalAshwini/LeetCode_code/tree/master/0826-soup-servings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
