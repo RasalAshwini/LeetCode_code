@@ -82,6 +82,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RasalAshwini/LeetCode_code/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/RasalAshwini/LeetCode_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RasalAshwini/LeetCode_code/tree/master/0075-sort-colors) |
@@ -231,6 +232,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RasalAshwini/LeetCode_code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/RasalAshwini/LeetCode_code/tree/master/0900-reordered-power-of-2) |
@@ -360,6 +362,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RasalAshwini/LeetCode_code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/RasalAshwini/LeetCode_code/tree/master/0498-diagonal-traverse) |
@@ -491,6 +494,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RasalAshwini/LeetCode_code/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RasalAshwini/LeetCode_code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
