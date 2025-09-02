@@ -171,6 +171,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RasalAshwini/LeetCode_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RasalAshwini/LeetCode_code/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -222,6 +223,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RasalAshwini/LeetCode_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RasalAshwini/LeetCode_code/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/RasalAshwini/LeetCode_code/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3548-find-the-count-of-good-integers) |
@@ -457,6 +459,7 @@
 | [2689-rearranging-fruits](https://github.com/RasalAshwini/LeetCode_code/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RasalAshwini/LeetCode_code/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RasalAshwini/LeetCode_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -603,6 +606,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RasalAshwini/LeetCode_code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -676,4 +680,8 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/RasalAshwini/LeetCode_code/tree/master/1628-count-submatrices-with-all-ones) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
