@@ -306,6 +306,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RasalAshwini/LeetCode_code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RasalAshwini/LeetCode_code/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RasalAshwini/LeetCode_code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RasalAshwini/LeetCode_code/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RasalAshwini/LeetCode_code/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RasalAshwini/LeetCode_code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -608,6 +610,7 @@
 | [1656-count-good-triplets](https://github.com/RasalAshwini/LeetCode_code/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RasalAshwini/LeetCode_code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RasalAshwini/LeetCode_code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
