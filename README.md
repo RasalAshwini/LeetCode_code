@@ -44,6 +44,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RasalAshwini/LeetCode_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RasalAshwini/LeetCode_code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RasalAshwini/LeetCode_code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RasalAshwini/LeetCode_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RasalAshwini/LeetCode_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RasalAshwini/LeetCode_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
