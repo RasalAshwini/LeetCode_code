@@ -9,6 +9,7 @@
 | [0038-count-and-say](https://github.com/RasalAshwini/LeetCode_code/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/RasalAshwini/LeetCode_code/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/RasalAshwini/LeetCode_code/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RasalAshwini/LeetCode_code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RasalAshwini/LeetCode_code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
@@ -99,6 +100,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/RasalAshwini/LeetCode_code/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/RasalAshwini/LeetCode_code/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RasalAshwini/LeetCode_code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/RasalAshwini/LeetCode_code/tree/master/1293-three-consecutive-odds) |
@@ -247,6 +249,7 @@
 | [0768-partition-labels](https://github.com/RasalAshwini/LeetCode_code/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/RasalAshwini/LeetCode_code/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RasalAshwini/LeetCode_code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1006-vowel-spellchecker](https://github.com/RasalAshwini/LeetCode_code/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/RasalAshwini/LeetCode_code/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/RasalAshwini/LeetCode_code/tree/master/1364-tuple-with-same-product) |
