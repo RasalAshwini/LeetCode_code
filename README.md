@@ -290,6 +290,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RasalAshwini/LeetCode_code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RasalAshwini/LeetCode_code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RasalAshwini/LeetCode_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -386,6 +387,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -498,12 +500,14 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RasalAshwini/LeetCode_code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
 |  |
