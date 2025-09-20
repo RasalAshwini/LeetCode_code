@@ -206,6 +206,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RasalAshwini/LeetCode_code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RasalAshwini/LeetCode_code/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RasalAshwini/LeetCode_code/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RasalAshwini/LeetCode_code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/RasalAshwini/LeetCode_code/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RasalAshwini/LeetCode_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -501,6 +503,7 @@
 | [2429-design-a-food-rating-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/RasalAshwini/LeetCode_code/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
@@ -509,6 +512,7 @@
 | [2434-design-a-number-container-system](https://github.com/RasalAshwini/LeetCode_code/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/RasalAshwini/LeetCode_code/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RasalAshwini/LeetCode_code/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -633,6 +637,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RasalAshwini/LeetCode_code/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -687,6 +692,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RasalAshwini/LeetCode_code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RasalAshwini/LeetCode_code/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RasalAshwini/LeetCode_code/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/RasalAshwini/LeetCode_code/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
