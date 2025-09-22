@@ -181,6 +181,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RasalAshwini/LeetCode_code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RasalAshwini/LeetCode_code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RasalAshwini/LeetCode_code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RasalAshwini/LeetCode_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RasalAshwini/LeetCode_code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -287,6 +288,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RasalAshwini/LeetCode_code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RasalAshwini/LeetCode_code/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/RasalAshwini/LeetCode_code/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RasalAshwini/LeetCode_code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RasalAshwini/LeetCode_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/RasalAshwini/LeetCode_code/tree/master/3548-find-the-count-of-good-integers) |
@@ -312,6 +314,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RasalAshwini/LeetCode_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/RasalAshwini/LeetCode_code/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/RasalAshwini/LeetCode_code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RasalAshwini/LeetCode_code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RasalAshwini/LeetCode_code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RasalAshwini/LeetCode_code/tree/master/3629-total-characters-in-string-after-transformations-i) |
